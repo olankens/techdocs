@@ -1,9 +1,6 @@
 <hr>
 
-<div align="center">
-  <img src="../.assets/nestjs.svg" width="132">
-  <h1><samp>NESTJS</samp></h1>
-</div>
+# <samp>NESTJS</samp>
 
 ### Create New Application Silently
 
