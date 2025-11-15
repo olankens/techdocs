@@ -1,5 +1,7 @@
+<hr>
+
 <div align="center">
-  <img src=".assets/icon.svg" width="132">
+  <!-- <img src=".assets/icon.svg" width="132"> -->
   <h1><samp>TECHDOCS</samp></h1>
   <p>Description goes here.</p>
 </div>
