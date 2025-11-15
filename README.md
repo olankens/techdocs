@@ -1,8 +1,7 @@
 <hr>
 
 <div align="center">
-  <img src=".assets/icon.svg" width="96">
-  <h1><samp>TECHDOCS</samp></h1>
+  <img src=".assets/icon.svg" width="132"><h1><samp>TECHDOCS</samp></h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet pharetra bibendum. Aliquam tincidunt ac velit ac vestibulum. Ut massa ante, sodales pellentesque pharetra porttitor, tincidunt quis nulla.</p>
 </div>
 
