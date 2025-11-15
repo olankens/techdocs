@@ -6,13 +6,13 @@
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet pharetra bibendum. Aliquam tincidunt ac velit ac vestibulum. Ut massa ante, sodales pellentesque pharetra porttitor, tincidunt quis nulla.</p>
 </div>
 
-<hr>
+<!-- <hr> -->
 
 <h3 align="center">Development</h3>
 
 <a href="#"><img src=".assets/nestjs.svg" width="15.625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a>
 
-<hr>
+<!-- <hr> -->
 
 <h3 align="center">Hardware</h3>
 
