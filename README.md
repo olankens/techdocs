@@ -28,7 +28,7 @@
 
 ### System
 
-<a href="src/windows.md"><img src=".assets/windows.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="src/almalinux.md"><img src=".assets/almalinux.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="src/parrot.md"><img src=".assets/parrot.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a>
+<a href="src/almalinux.md"><img src=".assets/almalinux.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="src/parrot.md"><img src=".assets/parrot.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="src/windows.md"><img src=".assets/windows.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a><picture><img src=".assets/1x1.png" width="1.25%"/></picture><a href="#"><img src=".assets/empty.svg" width="15.625%"/></a>
 
 <hr>
 
