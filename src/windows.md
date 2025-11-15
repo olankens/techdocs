@@ -8,7 +8,7 @@
 - Click <kbd>Run PowerShell as Administrator</kbd> to pop an elevated shell.
 - Copy and paste the following command to activate.
   ```powershell
-  ([ScriptBlock]::Create((Invoke-RestMethod "https://get.activated.win"))) /OHOOK /S
+  & ([ScriptBlock]::Create((Invoke-RestMethod "https://get.activated.win"))) /OHOOK /S
   ```
 
 <hr>
