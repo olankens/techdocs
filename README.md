@@ -10,7 +10,7 @@
 
 <!-- ![](https://lipsum.app/1280x640/333/333) -->
 
-<img src="https://lipsum.app/1280x640/333/333" width="100%"/>
+<p><img src="https://lipsum.app/1280x640/333/333" width="100%"/></p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet pharetra bibendum. Aliquam tincidunt ac velit ac vestibulum. Ut massa ante, sodales pellentesque pharetra porttitor, tincidunt quis nulla. Nullam ac tortor eu mauris malesuada pretium in nec ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque venenatis nibh at cursus commodo. Donec tortor massa, dignissim eu libero vitae, varius aliquam dolor.
 
