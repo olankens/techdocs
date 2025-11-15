@@ -5,10 +5,10 @@
   <h1><samp>NESTJS</samp></h1>
 </div>
 
-### Create New Application
+### Create New Application Silently
 
 ```shell
-npx @nestjs/cli new "template"
+npx -y @nestjs/cli new "app" --package-manager npm
 ```
 
 <hr>
