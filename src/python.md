@@ -4,7 +4,7 @@
 
 ### Create Local Conda Environment
 
-```bash
+```shell
 conda create --prefix ./.venv python=3.11
 conda activate ./.venv
 which python
@@ -14,7 +14,7 @@ which python
 
 ### Create Named Conda Environment
 
-```bash
+```shell
 conda create -n work python=3.11 -y
 conda activate work
 conda install <package_name> -y
@@ -24,7 +24,7 @@ conda install <package_name> -y
 
 ### Vanish Named Conda Environment
 
-```bash
+```shell
 conda remove -n work --all -y
 ```
 
