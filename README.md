@@ -8,7 +8,7 @@ Personal knowledge base containing notes, documentation, and references on progr
 
 ### Development
 
-<a href="src/angular.md"><img src=".assets/angular.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="src/python.md"><img src=".assets/python.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="src/spring.md"><img src=".assets/spring.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="#"><img src=".assets/default.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="#"><img src=".assets/default.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="#"><img src=".assets/default.svg" width="15.625%"/></a>
+<a href="src/angular.md"><img src=".assets/angular.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="src/nestjs.md"><img src=".assets/nestjs.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="src/python.md"><img src=".assets/python.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="src/spring.md"><img src=".assets/spring.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="#"><img src=".assets/default.svg" width="15.625%"/></a><img src=".assets/1x1.gif" width="1.25%"/><a href="#"><img src=".assets/default.svg" width="15.625%"/></a>
 
 <hr>
 
