@@ -2,6 +2,8 @@
 
 # OVERVIEW
 
+![](.assets/social.png)
+
 Personal knowledge base containing notes, documentation, and references on programming, tools, algorithms, system design, software engineering practices, and various explorations. Organized for quick reference and continuous updates.
 
 <hr>
