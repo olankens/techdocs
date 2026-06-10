@@ -9,7 +9,7 @@
 </p></td></tr></table>
 
 <table><tr><td align="center" width="99999">&nbsp;<p>
-  Maintain personal notes, documentation, and references across programming, tools, algorithms, system design, and software engineering practices, enabling quick lookup, active learning, and consistent technical growth across different subjects.
+  Keep notes, references, and technical docs on coding, tools, data structures, algorithms, system design, and engineering practices, for fast retrieval, active learning, and reliable technical skill building across all specific interest areas.
 </p>&nbsp;</td></tr></table>
 
 ### FEATURES
