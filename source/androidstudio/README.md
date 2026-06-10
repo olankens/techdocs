@@ -2,7 +2,7 @@
   <img src=".assets/icon.svg" align="center" width="96">
 </td></tr></table>
 
-<h1 align="center"><samp>ANDROID STUDIO</samp></h1>
+<h1 align="center"><samp>ANDROIDSTUDIO</samp></h1>
 
 <table><tr><td align="center" width="99999"><p>
   <a href="https://developer.android.com/studio">WEBSITE</a>
