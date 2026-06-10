@@ -1,5 +1,5 @@
 <table align="center"><tr></tr><tr><td>
-  <img src=".assets/icon.svg" align="center" width="96">
+  <img src=".assets/icon.svg" align="center" width="98">
 </td></tr></table>
 
 <h1 align="center"><samp>ASTRO</samp></h1>
