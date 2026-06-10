@@ -2,7 +2,7 @@
   <img src=".assets/icon.svg" align="center" width="96">
 </td></tr></table>
 
-<h1 align="center">WINDOWS</h1>
+<h1 align="center"><samp>WINDOWS</samp></h1>
 
 <table><tr><td align="center" width="99999"><p>
   <a href="https://windows.com">WEBSITE</a>

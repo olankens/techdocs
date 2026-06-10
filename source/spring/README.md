@@ -2,7 +2,7 @@
   <img src=".assets/icon.svg" align="center" width="96">
 </td></tr></table>
 
-<h1 align="center">SPRING</h1>
+<h1 align="center"><samp>SPRING</samp></h1>
 
 <table><tr><td align="center" width="99999"><p>
   <a href="https://spring.io">WEBSITE</a>
